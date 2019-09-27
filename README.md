@@ -14,8 +14,11 @@ For each test case, print the minimum time in which all array elements will beco
 
 <h2>constraints</h2>
               1<=T<=5
+              
               1<=N<=10^5
+              
               1<=A[i],K<=10^6
+              
  <h2>sample input</h2>
          2
           
@@ -44,7 +47,9 @@ The first line of input will contain a single integer n denoting the number of s
 Output all the integers separated in the array from left to right that are not smaller than those on its right side. 
 
 <h2>Constraints</h2>
+
             1 <= n <= 1000000 
+            
             0 <= arr[i] <= 10000 
         
  <h2>sample input</h2>
@@ -69,7 +74,9 @@ The first line contains N the no. of coders The next line contains N elements wh
 Print a single line containing the minimum sum.
  
 <h2>Constraints</h2>
+
              1<= N <= 1000000 
+             
             1<=S[ i ]<=1000 
             
   <h2>sample input</h2>    
