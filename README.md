@@ -17,8 +17,8 @@ For each test case, print the minimum time in which all array elements will beco
               1<=N<=10^5
               1<=A[i],K<=10^6
  <h2>sample input</h2>
-         2
-         
+          2
+          
          3 4
          
          1 2 5
@@ -29,6 +29,7 @@ For each test case, print the minimum time in which all array elements will beco
          
  <h2>sample output</h2>
  3
+ 
  0
  
 # HAMILTONIAN 
@@ -48,7 +49,9 @@ Output all the integers separated in the array from left to right that are not s
         
  <h2>sample input</h2>
           6
+          
           16 17 4 3 5 2
+          
   <h2>sample output</h2> 
   17 5 2
           
@@ -71,6 +74,7 @@ Print a single line containing the minimum sum.
             
   <h2>sample input</h2>    
   6
+  
   1 7 2 2 4 4
   
    <h2>sample output</h2>
